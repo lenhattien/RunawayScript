@@ -1,0 +1,3 @@
+How to use this repo:
+
+In general, a runaway is a program that's been running for a few hours by a user who is no longer logged in. Windowing systems, applications that aren't shut down properly, and users testing their programs can cause runaways. Sysadmins should find and terminate any runaways to prevent resource consumption.
